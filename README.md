@@ -31,7 +31,7 @@ Fandango consistently displayed ratings of 3-4 stars for films that were clearly
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 # Исследование рейтингов Fandango
 🇷🇺
@@ -66,3 +66,4 @@ Fandango часто показывал рейтинги 3-4 звезды для 
 
 ```bash
 pip install -r requirements.txt
+```
