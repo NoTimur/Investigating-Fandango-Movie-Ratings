@@ -1,6 +1,5 @@
 # 🕵️🔎📊
 # Investigating Fandango Movie Ratings
-🇬🇧
 ## Overview
 
 This project investigates the discrepancies in movie ratings on the Fandango platform compared to ratings from other sources such as Rotten Tomatoes, IMDB, and Metacritic. By analyzing and visualizing the data, we aim to determine whether Fandango inflated ratings for certain movies.
